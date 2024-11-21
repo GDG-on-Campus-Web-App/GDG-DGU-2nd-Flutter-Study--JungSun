@@ -1,10 +1,8 @@
 # 들어가기에 앞서
---------------
 Flutter로 앱을 만들고 싶다면 가장 먼저 배워야 하는 언어가 바로 Dart.
 이 강의를 통해 Dart와 친숙해지는 것이 목표이다.
 
 # Dart
---------------
 ## Dart란?
 
 - 객체 지향 언어
@@ -32,7 +30,6 @@ flutter, Dart 모두 구글이 만들었기 때문에 flutter에 맞춰서 Dart 
 [DartPad](https://dartpad.dev/)
 
 # VARIABLES
---------------
 ## Hello World
 
 - 메인 함수는 반드시 필요
